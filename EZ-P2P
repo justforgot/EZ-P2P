@@ -65,7 +65,7 @@
       <div class="grid2">
         <div>
           <label>Display name</label>
-          <input id="displayName" type="text" placeholder="e.g., Blake" style="min-height:initial" />
+          <input id="displayName" type="text" placeholder="e.g., Computer A" style="min-height:initial" />
           <div class="hint">Shown in chat and attached to shared files.</div>
         </div>
         <div>
