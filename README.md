@@ -1,7 +1,7 @@
 # EZ-P2P
 EZ P2P is the best way to direct file transfer for free, just open the file using a chromium based browser and connect! There is a chat feature, and you can connect up to four devices at once.
 
-To connect, first download the raw file called "EZ-P2P" on GitHub, then change the name to "EZP2P.html" then open it in a Chromium-based browser.
+To connect, first download the raw file called "EZ-P2P" on GitHub, then open it in a Chromium-based browser.
 Click "Create Offer" in peer slot one, then send that string of numbers and letters to the device that you would like to connect to.
 Then on the second device, paste the string in "Peer SDP" on peer slot 1 and click "Create Answer".
 Send the new string of numbers that popped up in "Your SDP" to the first device.
